@@ -54,3 +54,12 @@ h1 {
 .active {
     text-decoration: underline;
 }
+
+/* Hero Image */
+
+#hero-image-div {
+    background: url(../images/hero-image.jpg) no-repeat center center;
+    height: 750px;
+    width: 100%;
+    clear: both;
+}
