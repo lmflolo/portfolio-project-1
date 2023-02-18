@@ -10,6 +10,11 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 /* Headings */
 
 h1 {
@@ -22,4 +27,30 @@ h1 {
 #logo {
     float: left;
     font-size: 280%;
+}
+
+/* Navigation menu */
+
+#menu {
+    font-size: 110%;
+    float: right;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    display: inline;
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+}
+
+.active {
+    text-decoration: underline;
 }
