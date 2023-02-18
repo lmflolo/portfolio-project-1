@@ -16,10 +16,14 @@ In this section, you should go over the different parts of your project, and des
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation Menu__
 
-  - Featured on all three pages, the fully responsive navigation bar includes links to the Logo, Home page, Gallery and Contact page and is identical on each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button. 
+  - Featured on all three pages, the fully responsive navigation menu includes links to the Logo, Home page, Gallery and Contact page and is identical on each page to allow for easy navigation.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
+
+  - _Navigation Links_
+    - The link for the active page will display with an underline, to as a visual cue to show the user which page they are currently on.
+    - As the user hovers over each link in the menu, a text underline will appear to provide the user feedback as to which link they are about to click on.
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
