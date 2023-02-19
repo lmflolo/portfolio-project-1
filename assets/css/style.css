@@ -18,7 +18,7 @@ body {
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: #fff;
 }
 
 /* headings */
@@ -165,6 +165,6 @@ h1 {
 footer {
     text-align: center;
     padding: 20px 0;
-
-    background-color: #fafafa;
+    background-color: #030b07;
+    color: #fff;
 }
