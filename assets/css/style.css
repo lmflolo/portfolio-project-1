@@ -86,7 +86,6 @@ h1 {
     background-color: rgba(0, 0, 0, .7);
     color: #fff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 130%;
     text-align: center;
 
     height: 150px;
@@ -107,51 +106,65 @@ h1 {
 
 #about-section {
     height: 750px;
-    background-color: blanchedalmond;
     padding-top: 20px;
+
+    /* background-color: blanchedalmond; */
 }
 
 #about {
-    width: 90%;
-    margin: 0 auto;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    /* background-color: lightblue; */
 }
 
-#about div {
-    width: 45%;
-    background-color: silver;
-    padding: 10px 20px 20px;
-    border-radius: 15px;
-    margin: 20px;
-    position: relative;
-    top: 20px;
-}
-
-.about-float-left {
-    float: left;
-}
-
-.about-float-right {
-    float: right;
+#about > div {
+    /* background-color: red; */
 }
 
 .about-img {
     width: 40%;
     height: auto;
-    border-radius: 50%;
+    border-radius: 15px;
     border: #3b6385 3px outset;
-    margin: 20px;
+}
+
+#img-left {
+    margin-right: 20px;
+}
+
+#img-right {
+    margin-left: 20px;
 }
 
 .about-heading {
     font-size: 1.4rem;
-    margin: 5px 0;
+    margin-bottom: 5px;
 }
 
-#about .spacer {
-    clear: both;
-    margin: 0;
-    padding: 0;
-    border: none;
+.about-text-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    border-radius: 15px;
+
+    /* background-color: silver; */
+}
+
+.about-div {
+    display: flex;
+    height: 300px;
+    width: 66%;
+    padding: 0 20px 20px;
+}
+
+#top-about-div {
+    flex-direction: row-reverse;
+    padding-top: 20px;
 }
 
 /* Footer */
