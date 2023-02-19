@@ -17,23 +17,34 @@ a {
 
 /* Headings */
 
-h1 {
+h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
     font-weight: 700;
+}
+
+.section-title {
+    font-size: 2rem;
+}
+
+.text-center {
+    text-align: center;
 }
 
 /* Logo */
 
 #logo {
     float: left;
-    font-size: 280%;
+    font-size: 2.8rem;
     margin-left: 15px;
 }
 
 /* Navigation Menu */
 
 #menu {
-    font-size: 110%;
+    font-size: 1.1rem;
     float: right;
 }
 
@@ -85,7 +96,11 @@ h1 {
 }
 
 #cover-text h2 {
-    font-size: 280%;
+    font-size: 3.64rem;
+}
+
+#cover-text h3 {
+    font-size: 1.521rem;
 }
 
 /* About Section */
@@ -93,6 +108,7 @@ h1 {
 #about-section {
     height: 750px;
     background-color: blanchedalmond;
+    padding-top: 20px;
 }
 
 #about {
@@ -124,6 +140,11 @@ h1 {
     border-radius: 50%;
     border: #3b6385 3px outset;
     margin: 20px;
+}
+
+.about-heading {
+    font-size: 1.4rem;
+    margin: 5px 0;
 }
 
 #about .spacer {
