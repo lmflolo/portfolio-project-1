@@ -27,6 +27,7 @@ h1 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 15px;
 }
 
 /* Navigation Menu */
