@@ -92,18 +92,43 @@ h1 {
 
 #about-section {
     height: 750px;
+    background-color: blanchedalmond;
 }
 
-#top-about-div {
-    padding-top: 30px;
-    width: 50%;
+#about {
+    width: 90%;
     margin: 0 auto;
-    background-color: rgb(126, 126, 255);
 }
 
-#bottom-about-div {
-    padding-top: 30px;
-    width: 50%;
-    margin: 0 auto;
+#about div {
+    width: 45%;
     background-color: silver;
+    padding: 10px 20px 20px;
+    border-radius: 15px;
+    margin: 20px;
+    position: relative;
+    top: 20px;
+}
+
+.about-float-left {
+    float: left;
+}
+
+.about-float-right {
+    float: right;
+}
+
+.about-img {
+    width: 40%;
+    height: auto;
+    border-radius: 50%;
+    border: #3b6385 3px outset;
+    margin: 20px;
+}
+
+#about .spacer {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    border: none;
 }
