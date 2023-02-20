@@ -18,7 +18,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #fff;
+    color: #ffefa9;
 }
 
 /* headings */
@@ -90,7 +90,7 @@ h1 {
 
 #cover-text {
     background-color: rgba(0, 0, 0, .7);
-    color: #fff;
+    color: #ffefa9;
     text-align: center;
 
     height: 150px;
@@ -101,10 +101,12 @@ h1 {
 
 #cover-text h2 {
     font-size: 3.64rem;
+    color: #ffefa9;
 }
 
 #cover-text h3 {
     font-size: 1.521rem;
+    color: #fff4c2;
 }
 
 /* About Section */
@@ -166,5 +168,5 @@ footer {
     text-align: center;
     padding: 20px 0;
     background-color: #030b07;
-    color: #fff;
+    color: #fff4c2;
 }
