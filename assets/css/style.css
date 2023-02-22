@@ -38,6 +38,13 @@ h1 {
     text-align: center;
 }
 
+/* Header */
+
+header {
+    height: 75px;
+    background-color: #030b07;
+}
+
 /* Logo */
 
 #logo {
