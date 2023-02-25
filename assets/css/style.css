@@ -100,6 +100,7 @@ header {
 /* hero image */
 
 #hero-image-div {
+    background-color: #030b07;
     background: url(../images/hero-image.jpg) no-repeat center center;
     height: 750px;
     width: 100%;
