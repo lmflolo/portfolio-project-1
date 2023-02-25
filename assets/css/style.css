@@ -23,6 +23,7 @@ body {
 
 main {
     flex-grow: 1;
+    margin-top: 75px;
 }
 
 /* anchor tags */
@@ -54,6 +55,10 @@ h1 {
 header {
     height: 75px;
     background-color: #030b07;
+
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
 
 /* Logo */
