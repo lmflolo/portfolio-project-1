@@ -191,7 +191,8 @@ footer {
 
 #gallery-section {
     padding-top: 20px;
-    height: 750px;
+    padding-bottom: 10px;
+    flex-grow: inherit;
 }
 
 .image-container {
