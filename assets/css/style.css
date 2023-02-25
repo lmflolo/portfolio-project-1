@@ -179,11 +179,11 @@ header {
     border: #3b6385 3px outset;
 }
 
-#img-left {
+#about-img-top {
     margin-right: 25px;
 }
 
-#img-right {
+#about-img-bottom {
     margin-left: 25px;
 }
 
@@ -363,11 +363,11 @@ footer {
         margin-bottom: 20px;
     }
 
-    #img-left {
+    #about-img-top {
         margin-right: 0;
     }
 
-    #img-right {
+    #about-img-bottom {
         margin-left: 0;
     }
 
