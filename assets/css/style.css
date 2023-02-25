@@ -270,6 +270,7 @@ footer {
     color: #030b07;
 }
 
+
 /* Media Queries */
 
 /* for medium screen sizes 1024px and down */
@@ -297,6 +298,16 @@ footer {
 
     .about-div, #top-about-div {
         width: 75%;
+    }
+
+    /* gallery page */
+
+    #gallery-section {
+        padding-bottom: 20px;
+    }
+
+    .gallery-img {
+        width: 33%;
     }
 }
 
@@ -344,6 +355,12 @@ footer {
     .about-text-box {
         padding-bottom: 20px;
     }
+
+    /* gallery page */
+
+    .gallery-img {
+        width: 45%;
+    }
     
 }
 
@@ -357,8 +374,15 @@ footer {
         line-height: 4rem;
         margin-bottom: 10px;
     }
+
+    /* gallery page */
+    
+    .gallery-img {
+        width: 90%;
+    }
 }
 
+/* for mobile screen sizes 330px wide and down */
 @media screen and (max-width: 330px) {
     #logo {
         font-size: 2.5rem;
