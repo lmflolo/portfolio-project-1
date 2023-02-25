@@ -144,12 +144,12 @@ header {
     display: flex;
     height: auto;
     width: 66%;
-    padding: 0 20px 20px;
+    padding: 0 20px 40px;
 }
 
 #top-about-div {
     flex-direction: row-reverse;
-    padding-top: 20px;
+    padding-top: 40px;
 }
 
 .about-text-box {
@@ -171,11 +171,11 @@ header {
 }
 
 #img-left {
-    margin-right: 20px;
+    margin-right: 25px;
 }
 
 #img-right {
-    margin-left: 20px;
+    margin-left: 25px;
 }
 
 /* Footer */
@@ -310,6 +310,7 @@ footer {
 
     #about-section {
         height: auto;
+        padding-bottom: 0;
     }
 
     .about-div, #top-about-div {
@@ -317,6 +318,14 @@ footer {
         width: 75%;
         height: auto;
         align-items: center;
+    }
+
+    .about-div {
+        padding: 0 20px 20px;
+    }
+
+    #top-about-div {
+        padding-top: 20px;
     }
 
     .about-img {
