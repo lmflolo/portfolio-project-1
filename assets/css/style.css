@@ -206,6 +206,7 @@ footer {
 /* Gallery Page */
 
 #gallery-section {
+    height: 100%;
     padding: 20px 0;
 }
 
@@ -219,7 +220,7 @@ footer {
 }
 
 .gallery-img {
-    width: 20%;
+    width: 22%;
     height: auto;
     margin: 10px;
 }
