@@ -10,7 +10,12 @@
     border: none;
 }
 
-/* body */
+/* html and body */
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -278,6 +283,29 @@ footer {
 .submit-button:hover {
     background-color: #fff4c2;
     color: #030b07;
+}
+
+/* Form Feedback */
+
+#feedback-section {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form-feedback-div {
+    text-align: center;
+    line-height: 50px;
+}
+
+#form-feedback-div a {
+    text-decoration: underline;
+    color: #030b07;
+}
+
+#form-feedback-div a:hover {
+    color: #ffefa9;
 }
 
 
