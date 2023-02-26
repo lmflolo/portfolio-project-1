@@ -89,6 +89,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 - All pages have been throughly tested for screen sizes from 320px wide and up, using the device tool bar and responsiveness testing tools in Google Chrome DevTools.
 - The site is responsive on all screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
+- The site has been tested and confirmed to work with Chrome on desktop and Chrome on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 
 ### Code Validation
