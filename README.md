@@ -4,77 +4,77 @@ Modern Annex is a site that hopes to promote a business that provides custom des
 
 ![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
+---------------
 ## User Stories
 
 - As a visiting user, I would like to know what the business is about.
 - As a visiting user, I would like to view the previous work of the owner.
 - As a visiting user, I would like to contact the owner for business enquiries.
 
+---------------
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
-- __Navigation Menu__
+#### Header
+- Featured on all three pages, the fully responsive header includes the company logo which links to the home page when clicked, and a navigation menu with links to the Home page, Gallery and Contact page, and is identical on each page to allow for easy navigation.
+- The header will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
+- The header also remains fixed to the top of the page as the user scrolls, to allow for easy navigation between pages without making the user have to scroll back up to find the navigation links.
 
-  - Featured on all three pages, the fully responsive navigation menu includes links to the Logo, Home page, Gallery and Contact page and is identical on each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
+![Header](assets/images/readme-header.PNG)
 
-  - _Navigation Links_
-    - The link for the active page will display with an underline, to as a visual cue to show the user which page they are currently on.
-    - As the user hovers over each link in the menu, a text underline will appear to provide the user feedback as to which link they are about to click on.
+#### Navigation Bar
+- The link for the active page will display with an underline, as a visual cue to show the user which page they are currently on.
+- As the user hovers over each link in the menu, a text underline will appear to provide the user feedback as to which link they are about to click on.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](assets/images/readme-navbar.PNG)
+![Nav Bar hover]()
 
-- __The landing page image__
+#### The Hero Section
+- The Hero section includes a background image with text overlay to allow the user to see at a glance what the business is about. 
+- This section introduces the user to Modern Annex with an eye-catching image and title to grab their attention.
 
-  - The landing page includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+![Hero Section](assets/images/readme-hero-section.png)
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+#### About Section
+  - The About section will allow the user to read about who the business is and what they do. 
+  - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
 
-- __Club Ethos Section__
+![About Section](assets/images/readme-about-section.png)
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+#### The Footer
+  - The footer section is very simple. It is a strip with the same background color and font color as the header, and contains a copyright disclaimer. 
+  - The footer is still valuable to the user as it lets them know they have reached the bottom of the page, and acts as a counterbalance to the header.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Footer](assets/images/readme-footer.PNG)
 
-- __Meetup Times section__
+#### Gallery
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The gallery is fully responsive and will provide the user with images to see more of the previous projects that the business has done. 
+  - This section is valuable to the user as they will be able to easily identify the type of buildings that the business owner has designed in the past. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Gallery](assets/images/readme-gallery.png)
 
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
+#### The Contact Page
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Contact Page](assets/images/readme-contact.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- Thank You page that appears when the user clicks the Submit button in the contact form
+- Image gallery carousel, or the ability to enlarge images by clicking on them.
+- Call To Action buttons
+- Frequently Asked Questions
+- Social media links in the footer
+- Background image on the contact page and/or a nicer background color than white
+- Responsiveness for mobile screens as small as Galaxy Fold
+- Another paragraph in the About Section with more information about how the process works
+
+----
 
 ## Testing 
 
@@ -86,29 +86,33 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+### Responsiveness
+- All pages have been throughly tested for screen sizes from 320px wide and up, using the device tool bar and responsiveness testing tools in Google Chrome DevTools.
+- The site is responsive on all screen sizes and no images are pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
+- All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 
 ### Validator Testing 
 
-- HTML
-  - No errors or warnings were shown when checking code with the official [W3C HTML validator](https://validator.w3.org/)
-- CSS
-  - No errors were found when checking code with the official [W3C (Jigsaw) CSS validator](https://jigsaw.w3.org/css-validator/)
+- **HTML**: No errors or warnings were shown when checking code with the official [W3C HTML validator](https://validator.w3.org/)
+- **CSS**: No errors were found when checking code with the official [W3C (Jigsaw) CSS validator](https://jigsaw.w3.org/css-validator/)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
-## Deployment
+- Proper responsiveness has not been implemented for screen sizes narrower than 320px, for example the Galaxy Fold. For screen sizes this small, the links in the navigation menu don't fit on one line, and some elements overlap.
+  - The reason for not fixing this is a lack of time, and because I wanted to prioritise making sure the site is responsive for the most common mobile sizes.
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+## Deployment 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+The live site can be viewed here: https://lmflolo.github.io/pp1/
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
+- The site was deployed using GitHub Pages. The steps to deploy are as follows: 
+  1. From the GitHub repository, navigate to the Settings tab at the far right of the top menu
+  2. Then navigate to the Pages tab in the left-side menu
+  3. From the Source section drop-down menu, make sure 'Deploy from a branch' is selected
+  4. Select 'main' and '/ (root)' from the Branch drop-down menus, then click Save
+  5. After giving the site a few minutes to build, refresh the page and the link for the live site will appear at the top of the GitHub Pages tab
 
 ## Credits 
 
