@@ -58,19 +58,18 @@
             <div class="form-container">
                 <!-- Contact Form -->
                 <form class="contact-form" method="GET" action="form-feedback.html">
-                    <!-- <h2>Contact Us</h2> -->
 
-                    <label for="fname">First Name</label>
-                    <input id="fname" type="text" name="first_name" required class="input-field text-input">
+                    <label for="fname">First Name*</label>
+                    <input id="fname" type="text" name="first_name" required class="input-field text-input" placeholder="Jane">
 
-                    <label for="lname">Last Name</label>
-                    <input id="lname" type="text" name="last_name" required class="input-field text-input">
+                    <label for="lname">Last Name*</label>
+                    <input id="lname" type="text" name="last_name" required class="input-field text-input" placeholder="Doe">
 
-                    <label for="email">Email Address</label>
-                    <input id="email" type="email" name="email_address" required class="input-field text-input">
+                    <label for="email">Email Address*</label>
+                    <input id="email" type="email" name="email_address" required class="input-field text-input" placeholder="email@domain.com">
 
                     <label for="text">Anything else we should know?</label>
-                    <textarea id="text" name="text_area" cols="30" rows="10" class="input-field"></textarea>
+                    <textarea id="text" name="text_area" cols="30" rows="10" class="input-field" placeholder="Type your message here..."></textarea>
 
                     <button type="submit" class="submit-button">Submit</button>
                 </form>
