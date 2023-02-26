@@ -2,8 +2,6 @@
 
 Modern Annex is a site that hopes to promote a business that provides custom designs and plans for annex builds. The site will be targeted towards people who are planning to build an annex and want a custom design and building plans that they can provide to a contractor. Modern Annex will be useful for people to learn what the business does, to see previous designs and builds, and to make a business enquiry of their own.
 
-<!-- ![Responsive Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png) -->
-
 You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ---------------
@@ -16,9 +14,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - As a visiting user, I want to receive feedback when I successfully submit the contact form.
 
 ---------------
-## Features 
-
-<!-- In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things. -->
+## Features
 
 ### Existing Features
 
@@ -89,14 +85,6 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ## Testing 
 
-<!-- In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here. -->
-
 ### Responsiveness
 
 - All pages have been throughly tested for screen sizes from 320px wide and up, using the device tool bar and responsiveness testing tools in Google Chrome DevTools.
@@ -114,8 +102,6 @@ If this section grows too long, you may want to split it off into a separate fil
 - All pages have been tested with Wave accessibility evaluation tool with no errors.
 
 ### Unfixed Bugs
-
-<!-- You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. -->
 
 - Proper responsiveness has not been implemented for screen sizes narrower than 320px, for example the Galaxy Fold. For screen sizes this small, the links in the navigation menu don't fit on one line, and some elements overlap.
   - The reason for not fixing this is a lack of time, and because I wanted to prioritise making sure the site is responsive for the most common screen sizes.
