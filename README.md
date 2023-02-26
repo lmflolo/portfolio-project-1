@@ -61,20 +61,28 @@ In this section, you should go over the different parts of your project, and des
 
 #### The Contact Page
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to contact the website owner with a business enquiry or any questions they may have. The user will be able to freely write their message in a text area. The user will be required to submit their first name, last name, and email address.
 
 ![Contact Page](assets/images/readme-contact.png)
 
+#### The Form Feedback Page
+
+- This page appears after a user correctly fills out the contact form and clicks the submit button.
+- The header and navigation menu remains at the top of the page for easy navigation, and a link is provided to take the user back to the previous page.
+- This page provides value to the user as feedback to let them know the form was successfully submitted, and allows them to easily navigate back to the other pages.
+
+![Form Feedback Page](assets/images/readme-form-feedback.png)
+
 ### Features Left to Implement
 
-- Thank You page that appears when the user clicks the Submit button in the contact form
 - Image gallery carousel, or the ability to enlarge images by clicking on them.
 - Call To Action buttons
 - Frequently Asked Questions
 - Social media links in the footer
-- Background image on the contact page and/or a nicer background color than white
+- Background image on the contact page and/or a nicer background color
 - Responsiveness for mobile screens as small as Galaxy Fold
-- Another paragraph in the About Section with more information about how the process works
+- More detailed information in the About Section about how the business works
+- More input fields in the contact form to get more specific information from the customer
 
 ----
 
@@ -100,7 +108,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Accessibility
 
-- All pages have been tested with Lighthouse and have a high accessiblity score.
+- All pages have been tested with Lighthouse and have a high accessibility score.
 - All pages have been tested with Wave accessibility evaluation tool with no errors.
 
 ### Unfixed Bugs
