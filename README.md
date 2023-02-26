@@ -7,9 +7,11 @@ Modern Annex is a site that hopes to promote a business that provides custom des
 ---------------
 ## User Stories
 
-- As a visiting user, I would like to know what the business is about.
-- As a visiting user, I would like to view the previous work of the owner.
-- As a visiting user, I would like to contact the owner for business enquiries.
+- As a visiting user, I want to easily navigate between pages on the website.
+- As a visiting user, I want to know what the business is about.
+- As a visiting user, I want to view the previous work of the owner.
+- As a visiting user, I want to contact the owner for business enquiries.
+- As a visiting user, I want to receive feedback when I successfully submit the contact form.
 
 ---------------
 ## Features 
