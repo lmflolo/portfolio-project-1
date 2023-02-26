@@ -98,6 +98,11 @@ If this section grows too long, you may want to split it off into a separate fil
 - **HTML**: No errors or warnings were shown when checking code with the official [W3C HTML validator](https://validator.w3.org/)
 - **CSS**: No errors were found when checking code with the official [W3C (Jigsaw) CSS validator](https://jigsaw.w3.org/css-validator/)
 
+### Accessibility
+
+- All pages have been tested with Lighthouse and have a high accessiblity score.
+- All pages have been tested with Wave accessibility evaluation tool with no errors.
+
 ### Unfixed Bugs
 
 You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
