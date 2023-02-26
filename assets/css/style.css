@@ -314,6 +314,10 @@ footer {
 /* for medium screen sizes 1024px and down */
 @media screen and (max-width: 1024px) {
 
+    main {
+        margin-top: 115px;
+    }
+
     /* header section */
 
     header {
