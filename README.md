@@ -2,6 +2,8 @@
 
 Modern Annex is a site that hopes to promote a business that provides custom designs and plans for annex builds. The site will be targeted towards people who are planning to build an annex and want a custom design and building plans that they can provide to a contractor. Modern Annex will be useful for people to learn what the business does, to see previous designs and builds, and to make a business enquiry of their own.
 
+![Am I Responsive?](assets/images/readme-amiresponsive.png)
+
 You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ---------------
