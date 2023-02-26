@@ -115,12 +115,12 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 The live site can be viewed here: https://lmflolo.github.io/pp1/
 
-- The site was deployed using GitHub Pages. The steps to deploy are as follows: 
-  1. From the GitHub repository, navigate to the Settings tab at the far right of the top menu
-  2. Then navigate to the Pages tab in the left-side menu
-  3. From the Source section drop-down menu, make sure 'Deploy from a branch' is selected
-  4. Select 'main' and '/ (root)' from the Branch drop-down menus, then click Save
-  5. After giving the site a few minutes to build, refresh the page and the link for the live site will appear at the top of the GitHub Pages tab
+The site was deployed using GitHub Pages. The steps to deploy are as follows: 
+1. From the GitHub repository, navigate to the Settings tab at the far right of the top menu
+2. Then navigate to the Pages tab in the left-side menu
+3. From the Source section drop-down menu, make sure 'Deploy from a branch' is selected
+4. Select 'main' and '/ (root)' from the Branch drop-down menus, then click Save
+5. After giving the site a few minutes to build, refresh the page and the link for the live site will appear at the top of the GitHub Pages tab
 
 ----
 
