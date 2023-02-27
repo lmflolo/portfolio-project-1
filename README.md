@@ -141,9 +141,15 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ----
 
-## Deployment 
+## Deployment
 
 The live site can be viewed here: https://lmflolo.github.io/pp1/
+
+### Gitpod
+
+The site was developed using the Gitpod IDE. All code and files were saved and submitted to the GitHub repo with git version control by using the Git commands 'git add', 'git commit' and 'git push'.
+
+### GitHub Pages
 
 The site was deployed using GitHub Pages. The steps to deploy are as follows: 
 1. From the GitHub repository, navigate to the Settings tab at the far right of the top menu
