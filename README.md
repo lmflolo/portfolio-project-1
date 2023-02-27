@@ -89,10 +89,11 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ### Responsiveness
 
-- All pages have been throughly tested for screen sizes from 320px wide and up, using the device tool bar and responsiveness testing tools in Google Chrome DevTools.
+- All pages have been thoroughly tested for screen sizes from 320px wide and up, using the responsiveness testing tools in Google Chrome DevTools.
 - The site is responsive on all screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
-- The site has been tested and confirmed to work with Chrome on desktop and Chrome on an Android phone.
+- The site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
+- I have tested that the contact form works as intended; all fields with an asterisk need to be filled in, the email input only accepts an email, and the submit button works.
 
 ### Code Validation
 
@@ -101,8 +102,8 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ### Accessibility
 
-- All pages have been tested with Lighthouse and have a high accessibility score.
-- All pages have been tested with Wave accessibility evaluation tool with no errors.
+- All pages have been tested with Lighthouse in Chrome DevTools and have a high accessibility score (>90).
+- All pages have been tested with [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
 
 ### Unfixed Bugs
 
