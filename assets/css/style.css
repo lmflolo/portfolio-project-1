@@ -130,7 +130,7 @@ header {
 
 /* cover text - code referenced from Love Running walkthrough project */
 
-#cover-text {
+#hero-text {
     background-color: rgba(0, 0, 0, .7);
     color: #FFEA8A;
     text-align: center;
@@ -139,11 +139,11 @@ header {
     border-radius: 15px;
 }
 
-#cover-text h2 {
+#hero-text h2 {
     font-size: 3.64rem;
 }
 
-#cover-text h3 {
+#hero-text h3 {
     font-size: 1.521rem;
 }
 
@@ -364,7 +364,7 @@ footer {
 
     /* hero section */
 
-    #cover-text {
+    #hero-text {
         width: 60%;
     }
 
@@ -396,7 +396,7 @@ footer {
 
     /* hero section */
 
-    #cover-text {
+    #hero-text {
         width: 75%;
         height: auto;
     }
@@ -459,11 +459,11 @@ footer {
 
     /* hero section */
 
-    #cover-text {
+    #hero-text {
         padding-top: 15px;
     }
     
-    #cover-text h2 {
+    #hero-text h2 {
         line-height: 4rem;
         margin-bottom: 10px;
     }
@@ -497,7 +497,7 @@ footer {
 
     /* hero section */
 
-    #cover-text {
+    #hero-text {
         padding: 15px 10px 25px;
     }
 
