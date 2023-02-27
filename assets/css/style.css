@@ -158,7 +158,6 @@ header {
 
 #about {
     width: 100%;
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -174,6 +173,13 @@ header {
 #top-about-div {
     flex-direction: row-reverse;
     padding-top: 40px;
+}
+
+#call-to-action-div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 20px;
 }
 
 /* about section text */
@@ -397,10 +403,10 @@ footer {
 
     /* about section */
 
-    #about-section {
+    /* #about-section {
         height: auto;
         padding-bottom: 0;
-    }
+    } */
 
     /* about section containers */
 
