@@ -84,10 +84,34 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - More detailed information in the About Section about how the business works
 - More input fields in the contact form to get more specific information from the customer
 
+## Wireframes ##
 ----
+<details>
+  <summary>Desktop wirefames</summary>
+  <p>Index Page:</p>
+    <img src="assets/documentation/wireframe-index-desktop.png">
+  <p>Gallery Page:</p>
+    <img src="assets/documentation/wireframe-gallery-desktop.png">
+  <p>Contact Page:</p>
+    <img src="assets/documentation/wireframe-contact-desktop.png">
+  <p>Form Feedback Page:</p>
+    <img src="assets/documentation/wireframe-form-feedback-desktop.png">
+</details>
+
+<details>
+  <summary>Mobile wirefames</summary>
+  <p>Index Page:</p>
+    <img src="assets/documentation/wireframe-index-mobile.png">
+  <p>Gallery Page:</p>
+    <img src="assets/documentation/wireframe-gallery-mobile.png">
+  <p>Contact Page:</p>
+    <img src="assets/documentation/wireframe-contact-mobile.png">
+  <p>Form Feedback Page:</p>
+    <img src="assets/documentation/wireframe-form-feedback-mobile.png">
+</details>
 
 ## Testing
-
+----
 - The site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 - I have tested that the contact form works as intended; all fields with an asterisk need to be filled in, the email input only accepts an email, and the submit button works.
