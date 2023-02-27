@@ -2,7 +2,7 @@
 
 Modern Annex is a site that hopes to promote a business that provides custom designs and plans for annex builds. The site will be targeted towards people who are planning to build an annex and want a custom design and building plans that they can provide to a contractor. Modern Annex will be useful for people to learn what the business does, to see previous designs and builds, and to make a business enquiry of their own.
 
-![Am I Responsive?](assets/images/readme-amiresponsive.png)
+![Am I Responsive?](assets/documentation/readme-amiresponsive.png)
 
 You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
@@ -25,44 +25,44 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - The header will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
 - The header also remains fixed to the top of the page as the user scrolls, to allow for easy navigation between pages without making the user have to scroll back up to find the navigation links.
 
-![Header](assets/images/readme-header.PNG)
+![Header](assets/documentation/readme-header.PNG)
 
 #### Navigation Bar
 - The link for the active page will display with an underline, as a visual cue to show the user which page they are currently on.
 - As the user hovers over each link in the menu, a text underline will appear to provide the user feedback as to which link they are about to click on.
 
-![Nav Bar](assets/images/readme-navbar.PNG)
+![Nav Bar](assets/documentation/readme-navbar.PNG)
 
 #### The Hero Section
 - The Hero section includes a background image with text overlay to allow the user to see at a glance what the business is about. 
 - This section introduces the user to Modern Annex with an eye-catching image and title to grab their attention.
 
-![Hero Section](assets/images/readme-hero-section.png)
+![Hero Section](assets/documentation/readme-hero-section.png)
 
 #### About Section
   - The About section will allow the user to read about who the business is and what they do. 
   - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
 
-![About Section](assets/images/readme-about-section.png)
+![About Section](assets/documentation/readme-about-section.png)
 
 #### The Footer
   - The footer section is very simple. It is a strip with the same background color and font color as the header, and contains a copyright disclaimer. 
   - The footer is still valuable to the user as it lets them know they have reached the bottom of the page, and acts as a counterbalance to the header.
 
-![Footer](assets/images/readme-footer.PNG)
+![Footer](assets/documentation/readme-footer.PNG)
 
 #### Gallery
 
   - The gallery is fully responsive and will provide the user with images to see more of the previous projects that the business has done. 
   - This section is valuable to the user as they will be able to easily identify the type of buildings that the business owner has designed in the past. 
 
-![Gallery](assets/images/readme-gallery.png)
+![Gallery](assets/documentation/readme-gallery.png)
 
 #### The Contact Page
 
   - This page will allow the user to contact the website owner with a business enquiry or any questions they may have. The user will be able to freely write their message in a text area. The user will be required to submit their first name, last name, and email address.
 
-![Contact Page](assets/images/readme-contact.png)
+![Contact Page](assets/documentation/readme-contact.png)
 
 #### The Form Feedback Page
 
@@ -70,7 +70,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - The header and navigation menu remains at the top of the page for easy navigation, and a link is provided to take the user back to the previous page.
 - This page provides value to the user as feedback to let them know the form was successfully submitted, and allows them to easily navigate back to the other pages.
 
-![Form Feedback Page](assets/images/readme-form-feedback.png)
+![Form Feedback Page](assets/documentation/readme-form-feedback.png)
 
 ### Features Left to Implement
 
@@ -108,13 +108,13 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 <details>
   <summary>Lighthouse Screenshots</summary>
   <p>Index Page:</p>
-    <img src="assets/images/lighthouse-index.png">
+    <img src="assets/documentation/lighthouse-index.png">
   <p>Gallery Page:</p>
-    <img src="assets/images/lighthouse-gallery.png">
+    <img src="assets/documentation/lighthouse-gallery.png">
   <p>Contact Page:</p>
-    <img src="assets/images/lighthouse-contact.png">
+    <img src="assets/documentation/lighthouse-contact.png">
   <p>Form Feedback Page:</p>
-    <img src="assets/images/lighthouse-form-feedback.png">
+    <img src="assets/documentation/lighthouse-form-feedback.png">
 </details>
 
 - All pages have been tested with [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
@@ -123,13 +123,13 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 <details>
   <summary>Wave Screenshots</summary>
   <p>Index Page:</p>
-    <img src="assets/images/wave-index.png">
+    <img src="assets/documentation/wave-index.png">
   <p>Gallery Page:</p>
-    <img src="assets/images/wave-gallery.png">
+    <img src="assets/documentation/wave-gallery.png">
   <p>Contact Page:</p>
-    <img src="assets/images/wave-contact.png">
+    <img src="assets/documentation/wave-contact.png">
   <p>Form Feedback Page:</p>
-    <img src="assets/images/wave-form-feedback.png">
+    <img src="assets/documentation/wave-form-feedback.png">
 </details>
 
 ### Unfixed Bugs
