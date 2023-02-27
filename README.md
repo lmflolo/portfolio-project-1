@@ -102,8 +102,35 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ### Accessibility
 
-- All pages have been tested with Lighthouse in Chrome DevTools and have a high accessibility score (>90).
+- All pages have been tested with Lighthouse in Chrome DevTools and have a high accessibility score.
+- The poor SEO score on the form feedback page is because the "here" link does not have descriptive text.
+
+<details>
+  <summary>Lighthouse Screenshots</summary>
+  <p>Index Page:</p>
+    <img src="assets/images/lighthouse-index.png">
+  <p>Gallery Page:</p>
+    <img src="assets/images/lighthouse-gallery.png">
+  <p>Contact Page:</p>
+    <img src="assets/images/lighthouse-contact.png">
+  <p>Form Feedback Page:</p>
+    <img src="assets/images/lighthouse-form-feedback.png">
+</details>
+
 - All pages have been tested with [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
+- The alerts point out that two adjacent links go to the same URL (i.e. the logo and Home button in the navbar), some images have long alternative text, and the "here" link on the form feedback page is too non-descript.
+
+<details>
+  <summary>Wave Screenshots</summary>
+  <p>Index Page:</p>
+    <img src="assets/images/wave-index.png">
+  <p>Gallery Page:</p>
+    <img src="assets/images/wave-gallery.png">
+  <p>Contact Page:</p>
+    <img src="assets/images/wave-contact.png">
+  <p>Form Feedback Page:</p>
+    <img src="assets/images/wave-form-feedback.png">
+</details>
 
 ### Unfixed Bugs
 
