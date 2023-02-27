@@ -39,6 +39,15 @@ a {
     color: #ffefa9;
 }
 
+.internal-link {
+    text-decoration: underline;
+    color: #030b07;
+}
+
+.internal-link:hover {
+    color: #ffefa9;
+}
+
 /* headings */
 
 h1,
@@ -316,15 +325,6 @@ footer {
 #form-feedback-div {
     text-align: center;
     line-height: 50px;
-}
-
-#form-feedback-div a {
-    text-decoration: underline;
-    color: #030b07;
-}
-
-#form-feedback-div a:hover {
-    color: #ffefa9;
 }
 
 
