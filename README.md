@@ -1,4 +1,4 @@
-# Modern Annex
+# Modern Annex #
 
 Modern Annex is a site that hopes to promote a business that provides custom designs and plans for annex builds. The site will be targeted towards people who are planning to build an annex and want a custom design and building plans that they can provide to a contractor. Modern Annex will be useful for people to learn what the business does, to see previous designs and builds, and to make a business enquiry of their own.
 
@@ -6,21 +6,19 @@ Modern Annex is a site that hopes to promote a business that provides custom des
 
 You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
----------------
-## User Stories
-
+## User Stories ##
+- - - -
 - As a visiting user, I want to easily navigate between pages on the website.
 - As a visiting user, I want to know what the business is about.
 - As a visiting user, I want to view the previous work of the owner.
 - As a visiting user, I want to contact the owner for business enquiries.
 - As a visiting user, I want to receive feedback when I successfully submit the contact form.
 
----------------
-## Features
+## Features ##
+- - - -
+### Existing Features ###
 
-### Existing Features
-
-#### Header
+#### Header ####
 - Featured on all three pages, the fully responsive header includes the company name which links to the home page when clicked, and a navigation menu with links to the Home page, Gallery and Contact page, and is identical on each page to allow for easy navigation.
 - The header will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
 - The header also remains fixed to the top of the page as the user scrolls, to allow for easy navigation between pages without making the user have to scroll back up to find the navigation links.
@@ -85,7 +83,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - More input fields in the contact form to get more specific information from the customer
 
 ## Wireframes ##
-----
+- - - -
 <details>
   <summary>Desktop wirefames</summary>
   <p>Index Page:</p>
@@ -110,8 +108,14 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
     <img src="assets/documentation/wireframe-form-feedback-mobile.png">
 </details>
 
+Disclaimer: Final project may look different due to changes during development.
+
+## Technology ##
+- - - -
+Technologies used for this project are vanilla HTML and CSS.
+
 ## Testing
-----
+- - - -
 - The site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 - I have tested that the contact form works as intended; all fields with an asterisk need to be filled in, the email input only accepts an email, and the submit button works.
@@ -163,10 +167,8 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 - Proper responsiveness has not been implemented for screen sizes narrower than 320px, for example the Galaxy Fold. For screen sizes this small, the links in the navigation menu don't fit on one line, and some elements overlap.
   - The reason for not fixing this is a lack of time, and because I wanted to prioritise making sure the site is responsive for the most common screen sizes.
 
-----
-
 ## Deployment
-
+- - - -
 The live site can be viewed here: https://lmflolo.github.io/pp1/
 
 ### Gitpod
@@ -182,10 +184,8 @@ The site was deployed using GitHub Pages. The steps to deploy are as follows:
 4. Select 'main' and '/ (root)' from the Branch drop-down menus, then click Save
 5. After giving the site a few minutes to build, refresh the page and the link for the live site will appear at the top of the GitHub Pages tab
 
-----
-
 ## Credits 
-
+- - - -
 ### Content 
 
 - This README document is based on the Code Institute [README template](https://github.com/Code-Institute-Solutions/readme-template).
