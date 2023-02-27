@@ -61,6 +61,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 #### The Contact Page
 
   - This page will allow the user to contact the website owner with a business enquiry or any questions they may have. The user will be able to freely write their message in a text area. The user will be required to submit their first name, last name, and email address.
+  - An asterisk indicates to the user which input fields are required.
 
 ![Contact Page](assets/documentation/readme-contact.png)
 
@@ -74,7 +75,7 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ### Features Left to Implement
 
-- Image gallery carousel, or the ability to enlarge images by clicking on them.
+- Image gallery carousel, or the ability to enlarge images by clicking on them
 - Call To Action buttons
 - Frequently Asked Questions
 - Social media links in the footer
@@ -85,15 +86,16 @@ You can find the deployed site [HERE](https://lmflolo.github.io/pp1/).
 
 ----
 
-## Testing 
+## Testing
 
-### Responsiveness
-
-- All pages have been thoroughly tested for screen sizes from 320px wide and up, using the responsiveness testing tools in Google Chrome DevTools.
-- The site is responsive on all screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
 - The site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 - I have tested that the contact form works as intended; all fields with an asterisk need to be filled in, the email input only accepts an email, and the submit button works.
+
+### Responsiveness
+
+- All pages have been thoroughly tested for screen sizes from 320px wide and up, using the device toolbar in Google Chrome DevTools.
+- The site is fully responsive on all tested screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
 
 ### Code Validation
 
@@ -157,12 +159,12 @@ The site was deployed using GitHub Pages. The steps to deploy are as follows:
 ### Content 
 
 - This README document is based on the Code Institute [README template](https://github.com/Code-Institute-Solutions/readme-template).
-- I have used the [Love Running](https://github.com/lmflolo/love-running) walkthrough project as a reference on how to approach this project as well as for the media queries.
-- The code for the contact form was taken and adapted from the Love Running project challenges.
+- I have used the [Love Running](https://github.com/lmflolo/love-running) walkthrough project as inspiration for layout and design, as well as a reference on how to approach this project and as reference for the media queries.
+- The code for the contact form was taken and adapted from the Love Running project challenges in the Code Institute Learning Management System.
 - Instructions on how to make the fixed header were found on [W3Schools](https://www.w3schools.com/howto/howto_css_fixed_menu.asp)
 - The favicons were obtained from [favicon.io](https://favicon.io/)
 
-- I figured out how to implement the form feedback page by reading previous posts from David Bowers in the Code Institute Slack community, and by looking at his site: https://pp1.dev-bowers.com/contact.html
+- I learned how to implement the form feedback page by reading previous posts from David Bowers in the Code Institute Slack community, and by looking at his [Portfolio Project 1 site](https://pp1.dev-bowers.com/contact.html).
 
 - I have used the following Code Institute student PP1 sites, as well as their GitHub repos, as inspiration to see what a high quality project looks like. This includes getting inspiration for layout and design, fonts, how to implement code, how to comment the code, what to write in the readme, etc.
   - Batala Bangor: [live site](https://emmahewson.github.io/mp1_batala_bangor/), [repo](https://github.com/emmahewson/mp1_batala_bangor)
