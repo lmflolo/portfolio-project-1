@@ -159,14 +159,19 @@ The site was deployed using GitHub Pages. The steps to deploy are as follows:
 ### Content 
 
 - This README document is based on the Code Institute [README template](https://github.com/Code-Institute-Solutions/readme-template).
-- I have used the [Love Running](https://github.com/lmflolo/love-running) walkthrough project as inspiration for layout and design, as well as a reference on how to approach this project and as reference for the media queries.
-- The code for the contact form was taken and adapted from the Love Running project challenges in the Code Institute Learning Management System.
+
+- [Love Running](https://github.com/lmflolo/love-running):
+  - Inspiration for layout and design, reference on how to approach this project.
+  - Used and adapted HTML and CSS code for the header (logo and navigation menu), hero section and contact form.
+  - Reference for media queries.
+  - Used code for removing default margin, padding and border on all HTML elements.
+
 - Instructions on how to make the fixed header were found on [W3Schools](https://www.w3schools.com/howto/howto_css_fixed_menu.asp)
 - The favicons were obtained from [favicon.io](https://favicon.io/)
 
 - I learned how to implement the form feedback page by reading previous posts from David Bowers in the Code Institute Slack community, and by looking at his [Portfolio Project 1 site](https://pp1.dev-bowers.com/contact.html).
 
-- I have used the following Code Institute student PP1 sites, as well as their GitHub repos, as inspiration to see what a high quality project looks like. This includes getting inspiration for layout and design, fonts, how to implement code, how to comment the code, what to write in the readme, etc.
+- I have used the following Code Institute student project sites, as well as their GitHub repos, as inspiration to see what a high quality project looks like. This includes getting inspiration for layout and design, fonts, how to implement code, how to comment the code, what to write in the readme, etc.
   - Batala Bangor: [live site](https://emmahewson.github.io/mp1_batala_bangor/), [repo](https://github.com/emmahewson/mp1_batala_bangor)
   - MadMiners SMP: [live site](https://madmaddie81.github.io/mad-miners-smp/index.html), [repo](https://github.com/MadMaddie81/mad-miners-smp)
 
