@@ -227,6 +227,8 @@ footer {
     width: 22%;
     height: auto;
     margin: 10px;
+    border: #030b07 2px outset;
+    border-radius: 15px;
 }
 
 /* Contact Page */
