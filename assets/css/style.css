@@ -3,7 +3,7 @@
 
 /* HTML Elements */
 
-/* all html elements */
+/* all html elements --- code from Love Running walkthrough project */
 * {
     margin: 0;
     padding: 0;
@@ -63,12 +63,13 @@ header {
     height: 75px;
     background-color: #030b07;
 
+    /* code for fixed header from W3Schools */
     position: fixed;
     top: 0;
     width: 100%;
 }
 
-/* Logo */
+/* Logo - code referenced from Love Running walkthrough project */
 
 #logo {
     float: left;
@@ -76,7 +77,7 @@ header {
     margin-left: 15px;
 }
 
-/* Navigation Menu */
+/* Navigation Menu - code referenced from Love Running walkthrough project */
 
 #menu {
     font-size: 1.1rem;
@@ -104,7 +105,7 @@ header {
 
 /* Hero Section */
 
-/* hero image */
+/* hero image - code referenced from Love Running walkthrough project */
 
 #hero-image-div {
     background-color: #030b07;
@@ -118,7 +119,7 @@ header {
     justify-content: center;
 }
 
-/* cover text */
+/* cover text - code referenced from Love Running walkthrough project */
 
 #cover-text {
     background-color: rgba(0, 0, 0, .7);
@@ -185,6 +186,7 @@ header {
     width: 40%;
     height: auto;
     border-radius: 15px;
+    /* border code from MadMiners SMP site */
     border: #030b07 3px outset;
 }
 
@@ -247,6 +249,8 @@ footer {
     padding-top: 40px;
 }
 
+/* code adapted from Love Running project challenges */
+
 .contact-form {
     max-width: 400px;
     background-color: rgba(0, 0, 0, 0.9);
@@ -260,7 +264,7 @@ footer {
     color: #ffefa9;
 }
 
-/* text inputs */
+/* text inputs - code adapted from Love Running project challenges */
 
 .input-field {
     width: 100%;
@@ -279,7 +283,7 @@ footer {
     border-color: #ffefa9;
 }
 
-/* submit button */
+/* submit button - code adapted from Love Running project challenges */
 
 .submit-button {
     background-color: #030b07;
@@ -322,7 +326,7 @@ footer {
 }
 
 
-/* Media Queries */
+/* Media Queries - referenced from Love Running walkthrough project */
 
 /* for medium screen sizes 1024px and down */
 @media screen and (max-width: 1024px) {
@@ -379,7 +383,7 @@ footer {
     }
 }
 
-/* for small screen sizes 820px wide and down */
+/* for medium to small screen sizes 820px wide and down */
 @media screen and (max-width: 820px) {
 
     /* hero section */
