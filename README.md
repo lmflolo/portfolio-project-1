@@ -43,7 +43,7 @@ The site will be targeted towards customers who are planning to build an annex o
   - The About section will allow the user to read about who the business is and what they do. 
   - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
 
-![About Section](assets/documentation/readme-about-section.png)
+![About Section](assets/documentation/readme-about-us-section.png)
 
 #### The Footer ####
   - The footer section is very simple. It is a strip with the same background color and font color as the header, and contains a copyright disclaimer. 
