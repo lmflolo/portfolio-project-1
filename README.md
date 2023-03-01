@@ -20,14 +20,14 @@ The site will be targeted towards customers who are planning to build an annex o
 - - - -
 ### Existing Features ###
 
-#### Header ####
+#### The Header ####
 - Featured on all three pages, the fully responsive header includes the company name which links to the home page when clicked, and a navigation menu with links to the Home page, Gallery and Contact page, and is identical on each page to allow for easy navigation.
 - The header will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the browser's ‘back’ button.
 - The header also remains fixed to the top of the page as the user scrolls, to allow for easy navigation between pages without making the user have to scroll back up to find the navigation links.
 
 ![Header](assets/documentation/readme-header.PNG)
 
-#### Navigation Bar ####
+#### The Navigation Bar ####
 - The link for the active page will display with an underline, as a visual cue to show the user which page they are currently on.
 - As the user hovers over each link in the menu, a text underline will appear to provide the user feedback as to which link they are about to click on.
 
@@ -39,7 +39,7 @@ The site will be targeted towards customers who are planning to build an annex o
 
 ![Hero Section](assets/documentation/readme-hero-section.png)
 
-#### About Section ####
+#### The About Us Section ####
   - The About section will allow the user to read about who the business is and what they do. 
   - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
 
@@ -51,7 +51,7 @@ The site will be targeted towards customers who are planning to build an annex o
 
 ![Footer](assets/documentation/readme-footer.PNG)
 
-#### Gallery ####
+#### The Gallery Page ####
 
   - The gallery is fully responsive and will provide the user with images to see more of the previous projects that the business has done. 
   - This section is valuable to the user as they will be able to easily identify the type of buildings that the business owner has designed in the past. 
@@ -110,11 +110,11 @@ The site will be targeted towards customers who are planning to build an annex o
     <img src="assets/documentation/wireframe-form-feedback-mobile.png">
 </details>
 
-Disclaimer: Final project may look different due to changes during development.
+Disclaimer: The final project may look different due to changes during development.
 
 ## Technology ##
 - - - -
-Technologies used for this project are vanilla HTML and CSS.
+Technologies used for this project are HTML5 and CSS3.
 
 ## Testing ##
 - - - -
@@ -149,7 +149,7 @@ Technologies used for this project are vanilla HTML and CSS.
     <img src="assets/documentation/lighthouse-form-feedback.png">
 </details>
 
-- All pages have been tested with [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
+- All pages have been tested with the [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
 - The alerts point out that two adjacent links go to the same URL (i.e. the logo and Home button in the navbar), some images have long alternative text, and the "here" link on the form feedback page is too non-descript.
 
 <details>
