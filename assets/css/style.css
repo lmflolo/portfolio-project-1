@@ -72,7 +72,7 @@ header {
     height: 75px;
     background-color: #030b07;
 
-    /* code for fixed header from W3Schools */
+    /* code from W3Schools' tutorial for fixed menu */
     position: fixed;
     top: 0;
     width: 100%;
@@ -201,7 +201,7 @@ header {
     width: 40%;
     height: auto;
     border-radius: 15px;
-    /* border code from MadMiners SMP site */
+    /* border inspired by MadMiners SMP site */
     border: #030b07 3px outset;
 }
 
@@ -260,13 +260,11 @@ footer {
     padding-top: 40px;
 }
 
-/* contact form */
+/* contact form - code adapted from Love Running project challenges */
 
 .form-container {
     padding-top: 40px;
 }
-
-/* code adapted from Love Running project challenges */
 
 .contact-form {
     max-width: 400px;
@@ -408,13 +406,6 @@ footer {
         width: 75%;
         height: auto;
     }
-
-    /* about section */
-
-    /* #about-section {
-        height: auto;
-        padding-bottom: 0;
-    } */
 
     /* about section containers */
 
