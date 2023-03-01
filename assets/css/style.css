@@ -147,30 +147,30 @@ header {
     font-size: 1.521rem;
 }
 
-/* About Section */
+/* About Us Section */
 
-#about-section {
+#about-us-section {
     height: auto;
     padding-bottom: 20px;
 }
 
-/* about section containers */
+/* about us section containers */
 
-#about {
+#about-us-outer-div {
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.about-div {
+.about-us-inner-div {
     display: flex;
     height: auto;
     width: 66%;
     padding: 0 20px 40px;
 }
 
-#top-about-div {
+#top-about-us-inner-div {
     flex-direction: row-reverse;
     padding-top: 40px;
 }
@@ -182,22 +182,22 @@ header {
     padding-bottom: 20px;
 }
 
-/* about section text */
+/* about us section text */
 
-.about-text-box {
+.about-us-text-box {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.about-heading {
+.about-us-heading {
     font-size: 1.4rem;
     margin-bottom: 5px;
 }
 
-/* about section images */
+/* about us section images */
 
-.about-img {
+.about-us-img {
     width: 40%;
     height: auto;
     border-radius: 15px;
@@ -205,11 +205,11 @@ header {
     border: #030b07 3px outset;
 }
 
-#about-img-top {
+#about-us-img-top {
     margin-right: 25px;
 }
 
-#about-img-bottom {
+#about-us-img-bottom {
     margin-left: 25px;
 }
 
@@ -374,9 +374,9 @@ footer {
         width: 60%;
     }
 
-    /* about section */
+    /* about us section */
 
-    .about-div, #top-about-div {
+    .about-us-inner-div, #top-about-us-inner-div {
         width: 75%;
     }
 
@@ -407,41 +407,41 @@ footer {
         height: auto;
     }
 
-    /* about section containers */
+    /* about us section containers */
 
-    .about-div, #top-about-div {
+    .about-us-inner-div, #top-about-us-inner-div {
         flex-direction: column-reverse;
         width: 75%;
         height: auto;
         align-items: center;
     }
 
-    .about-div {
+    .about-us-inner-div {
         padding: 0 20px 20px;
     }
 
-    #top-about-div {
+    #top-about-us-inner-div {
         padding-top: 20px;
     }
     
-    /* about section images */
+    /* about us section images */
 
-    .about-img {
+    .about-us-img {
         width: 100%;
         margin-bottom: 20px;
     }
 
-    #about-img-top {
+    #about-us-img-top {
         margin-right: 0;
     }
 
-    #about-img-bottom {
+    #about-us-img-bottom {
         margin-left: 0;
     }
 
-    /* about section text boxes */
+    /* about us section text boxes */
     
-    .about-text-box {
+    .about-us-text-box {
         padding-bottom: 20px;
     }
 
