@@ -117,9 +117,10 @@ Technologies used for this project are HTML5 and CSS3.
 
 ## Testing ##
 - - - -
-- The site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome on an Android phone.
+- During development the site was constantly tested and debugged using Chrome DevTools.
+- After deployment the site has been tested and confirmed to work with Chrome, Edge and Firefox on desktop, and Chrome + standard browser on an Android phone.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
-- I have tested that the contact form works as intended; all fields with an asterisk need to be filled in, the email input only accepts an email, and the submit button works.
+- I have tested that the contact form works as intended; all fields with an asterisk are required to be filled in, the email input only accepts an email, and the submit button takes the user to the form feedback page.
 
 ### Responsiveness ###
 
@@ -134,7 +135,6 @@ Technologies used for this project are HTML5 and CSS3.
 ### Accessibility ###
 
 - All pages have been tested with Lighthouse in Chrome DevTools and have a high accessibility score.
-- The poor SEO score on the form feedback page is because the "here" link does not have descriptive text.
 
 <details>
   <summary>Lighthouse Screenshots</summary>
@@ -149,7 +149,7 @@ Technologies used for this project are HTML5 and CSS3.
 </details>
 
 - All pages have been tested with the [Wave](https://wave.webaim.org/) accessibility evaluation tool with no errors.
-- The alerts point out that two adjacent links go to the same URL (i.e. the logo and Home button in the navbar), some images have long alternative text, and the "here" link on the form feedback page is too non-descript.
+- The alerts point out that two adjacent links go to the same URL (i.e. the logo and Home button in the navbar), and that some images have long alternative text.
 
 <details>
   <summary>Wave Screenshots</summary>
@@ -165,8 +165,7 @@ Technologies used for this project are HTML5 and CSS3.
 
 ### Unfixed Bugs ###
 
-- Proper responsiveness has not been implemented for screen sizes narrower than 320px, for example the Galaxy Fold. For screen sizes this small, the links in the navigation menu don't fit on one line, and some elements overlap.
-  - The reason for not fixing this is a lack of time, and because I wanted to prioritise making sure the site is responsive for the most common screen sizes.
+- There are no known unfixed bugs at the point of final deployment.
 
 ## Deployment ##
 - - - -
