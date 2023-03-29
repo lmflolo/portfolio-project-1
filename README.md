@@ -40,8 +40,9 @@ The site will be targeted towards customers who are planning to build an annex o
 ![Hero Section](assets/documentation/readme-hero-section.png)
 
 #### The About Us Section ####
-  - The About section will allow the user to read about who the business is and what they do. 
+  - The About Us section will allow the user to read about who the business is and what they do. 
   - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
+  - At the bottom there are Call to Action links that direct the user to where they can find out more.
 
 ![About Section](assets/documentation/readme-about-us-section.png)
 
@@ -76,11 +77,9 @@ The site will be targeted towards customers who are planning to build an annex o
 ### Future Features ###
 
 - Image gallery carousel, or the ability to enlarge images by clicking on them
-- Call To Action buttons
 - Frequently Asked Questions
 - Social media links in the footer
 - Background image on the contact page and/or a nicer background color
-- Responsiveness for mobile screens as small as Galaxy Fold
 - More detailed information in the About Section about how the business works
 - More input fields in the contact form to get more specific information from the customer
 
@@ -124,7 +123,7 @@ Technologies used for this project are HTML5 and CSS3.
 
 ### Responsiveness ###
 
-- All pages have been thoroughly tested for screen sizes from 320px wide and up, using the device toolbar in Google Chrome DevTools.
+- All pages have been thoroughly tested for screen sizes from 280px wide (Galaxy Fold size) and up, using the device toolbar in Google Chrome DevTools.
 - The site is fully responsive on all tested screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
 
 ### Code Validation ###
