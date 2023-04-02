@@ -123,13 +123,13 @@ Technologies used for this project are HTML5 and CSS3.
 ## Testing ##
 
 - During development the site was constantly tested and debugged using Chrome DevTools.
-- After deployment the site has been tested and confirmed to work with Chrome, Edge and Firefox on Windows desktop, Chrome and standard browser on an Android phone, and Safari on iPhone 13, both with vertical and horizontal screen orientation.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
 - I have tested that the contact form works as intended; all fields with an asterisk are required to be filled in, the email input only accepts an email, and the submit button takes the user to the form feedback page.
 
-### Responsiveness ###
+### Responsiveness and Devices ###
 
 - All pages have been thoroughly tested for screen sizes from 280px wide (Galaxy Fold size) and up, using the device toolbar in Google Chrome DevTools.
+- After deployment the site has been tested and confirmed to work with Chrome, Edge and Firefox on Windows desktop, Chrome and Safari on a 13-inch MacBook Pro, Chrome and standard browser on an Android phone, and Safari on iPhone 13, both with vertical and horizontal screen orientation on the mobile devices.
 - The site is fully responsive on all tested screen sizes and no images are overly pixelated or stretched. There is no unwanted horizontal scroll, and no elements overlap.
 
 ### Code Validation ###
