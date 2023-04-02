@@ -8,16 +8,18 @@ The site will be targeted towards customers who are planning to build an annex o
 
 [Click here to view the live website](https://lmflolo.github.io/pp1/)
 
-## User Stories ##
 - - - -
+## User Stories ##
+
 - As a visiting user, I want to easily navigate between pages on the website.
 - As a visiting user, I want to know what the business is about.
 - As a visiting user, I want to view the previous work of the owner.
 - As a visiting user, I want to contact the owner for business enquiries.
 - As a visiting user, I want to receive feedback when I successfully submit the contact form.
 
-## Features ##
 - - - -
+## Features ##
+
 ### Existing Features ###
 
 #### The Header ####
@@ -34,7 +36,7 @@ The site will be targeted towards customers who are planning to build an annex o
 ![Nav Bar](assets/documentation/readme-navbar.PNG)
 
 #### The Hero Section ####
-- The Hero section includes a background image with text overlay to allow the user to see at a glance what the business is about. 
+- The Hero section includes a background image with text overlay to allow the user to see/read at a glance what the business is about. 
 - This section introduces the user to Modern Annex with an eye-catching image and title to grab their attention.
 
 ![Hero Section](assets/documentation/readme-hero-section.png)
@@ -42,7 +44,7 @@ The site will be targeted towards customers who are planning to build an annex o
 #### The About Us Section ####
   - The About Us section will allow the user to read about who the business is and what they do. 
   - The user will see images that illustrate the business concept. This should encourage the user to get in touch for a business enquiry. 
-  - At the bottom there are Call to Action links that direct the user to where they can find out more.
+  - At the bottom there are call-to-action links that direct the user to the gallery and contact pages where they can get more information.
 
 ![About Section](assets/documentation/readme-about-us-section.png)
 
@@ -53,22 +55,20 @@ The site will be targeted towards customers who are planning to build an annex o
 ![Footer](assets/documentation/readme-footer.PNG)
 
 #### The Gallery Page ####
-
   - The gallery is fully responsive and will provide the user with images to see more of the previous projects that the business has done. 
   - This section is valuable to the user as they will be able to easily identify the type of buildings that the business owner has designed in the past. 
 
 ![Gallery](assets/documentation/readme-gallery.png)
 
 #### The Contact Page ####
-
-  - This page will allow the user to contact the website owner with a business enquiry or any questions they may have. The user will be able to freely write their message in a text area. The user will be required to submit their first name, last name, and email address.
+  - The contact page will allow the user to contact the website owner with a business enquiry or any questions they may have. The user will be able to freely write their message in a text area. The user will be required to submit their first name, last name, and email address.
   - An asterisk indicates to the user which input fields are required.
+  - This page provides value to the user through interaction with the website, and as a means to get in touch in a quick and convenient way.
 
 ![Contact Page](assets/documentation/readme-contact.png)
 
 #### The Form Feedback Page ####
-
-- This page appears after a user correctly fills out the contact form and clicks the submit button.
+- The form feedback page appears after a user correctly fills out the contact form and clicks the submit button.
 - The header and navigation menu remains at the top of the page for easy navigation, and a link is provided to take the user back to the previous page.
 - This page provides value to the user as feedback to let them know the form was successfully submitted, and allows them to easily navigate back to the other pages.
 
@@ -77,14 +77,17 @@ The site will be targeted towards customers who are planning to build an annex o
 ### Future Features ###
 
 - Image gallery carousel, or the ability to enlarge images by clicking on them
+- Replace call-to-action links with more visible buttons on home page
+- Call-to-action links or buttons on the gallery page
 - Frequently Asked Questions
 - Social media links in the footer
-- Background image on the contact page and/or a nicer background color
-- More detailed information in the About Section about how the business works
-- More input fields in the contact form to get more specific information from the customer
+- Background image on the contact page and form feedback page, and/or a nicer background color
+- More detailed information in the About Us section about how the business works
+- More input fields in the contact form to get more detailed information from the customer
 
-## Wireframes ##
 - - - -
+## Wireframes ##
+
 <details>
   <summary>Desktop wirefames</summary>
   <p>Index Page:</p>
@@ -111,12 +114,14 @@ The site will be targeted towards customers who are planning to build an annex o
 
 Disclaimer: The final project may look different due to changes during development.
 
-## Technology ##
 - - - -
+## Technology ##
+
 Technologies used for this project are HTML5 and CSS3.
 
-## Testing ##
 - - - -
+## Testing ##
+
 - During development the site was constantly tested and debugged using Chrome DevTools.
 - After deployment the site has been tested and confirmed to work with Chrome, Edge and Firefox on Windows desktop, Chrome and standard browser on an Android phone, and Safari on iPhone 13, both with vertical and horizontal screen orientation.
 - All links on the website, including the navigation links and the logo, have been tested to make sure they take the user to the right page when clicked.
@@ -167,8 +172,9 @@ Technologies used for this project are HTML5 and CSS3.
 
 - There are no known unfixed bugs at the point of final deployment.
 
-## Deployment ##
 - - - -
+## Deployment ##
+
 The live site can be viewed here: https://lmflolo.github.io/pp1/
 
 ### Gitpod ###
@@ -184,8 +190,9 @@ The site was deployed using GitHub Pages. The steps to deploy are as follows:
 4. Select 'main' and '/ (root)' from the Branch drop-down menus, then click Save
 5. After giving the site a few minutes to build, refresh the page and the link for the live site will appear at the top of the GitHub Pages tab
 
-## Credits ##
 - - - -
+## Credits ##
+
 ### Content ###
 
 - This README document is based on the Code Institute [README template](https://github.com/Code-Institute-Solutions/readme-template).
@@ -201,9 +208,9 @@ The site was deployed using GitHub Pages. The steps to deploy are as follows:
 
 - I learned how to implement the form feedback page by reading previous posts from David Bowers in the Code Institute Slack community, and by looking at his [Portfolio Project 1 site](https://pp1.dev-bowers.com/contact.html).
 
-- I have used the following Code Institute student project sites, as well as their GitHub repos, as inspiration to see what a high quality project looks like. This includes getting inspiration for layout and design, fonts, how to implement code, how to comment the code, what to write in the readme, etc.
-  - Batala Bangor: [live site](https://emmahewson.github.io/mp1_batala_bangor/), [repo](https://github.com/emmahewson/mp1_batala_bangor)
-  - MadMiners SMP: [live site](https://madmaddie81.github.io/mad-miners-smp/index.html), [repo](https://github.com/MadMaddie81/mad-miners-smp)
+- I have used the following Code Institute student project sites, as well as their GitHub repositories, as inspiration to see what a high quality project looks like. This includes inspiration for layout and design, fonts, how to implement code, how to comment the code, what to write in the README, etc.
+  - Batala Bangor: [live site](https://emmahewson.github.io/mp1_batala_bangor/), [GitHub repo](https://github.com/emmahewson/mp1_batala_bangor)
+  - MadMiners SMP: [live site](https://madmaddie81.github.io/mad-miners-smp/index.html), [GitHub repo](https://github.com/MadMaddie81/mad-miners-smp)
 
 ### Media ###
 
